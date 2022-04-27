@@ -1,0 +1,8 @@
+#menu,
+ol {
+    background-color: rgb(211, 238, 248)
+}
+
+li:hover {
+    background-color: rgb(213, 209, 209);
+}
